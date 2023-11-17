@@ -1,1 +1,1 @@
-First Project. A simple program that lets you download youtube videos to mp4 in 720p.
+Made a YouTube Video Downloader, as this is going to be my first repo (not my first project). The Highest Quality for download is available only at 720p cause when i try to specify 1080p the output just has no audio. If you have solutions, please either email me to dungeonfortress@gmail.com or to my discord = ! yuuki#8978.
